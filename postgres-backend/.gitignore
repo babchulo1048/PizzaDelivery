@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+uploads/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Build artifacts
+dist/
+build/
+
+# Ignore any other specific files or directories you don't want to commit
